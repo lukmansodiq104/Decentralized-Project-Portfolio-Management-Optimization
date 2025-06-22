@@ -5,8 +5,9 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.contract-manager-verification]
-path = 'contracts/contract-manager-verification.clar'
+
+[contracts.portfolio-manager-verification]
+path = 'contracts/portfolio-manager-verification.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]

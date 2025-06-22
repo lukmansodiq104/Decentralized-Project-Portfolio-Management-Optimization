@@ -50,8 +50,8 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
-            contract-name: contract-manager-verification
+            contract-name: portfolio-manager-verification
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/contract-manager-verification.clar
+            path: contracts/portfolio-manager-verification.clar
             clarity-version: 2
       epoch: "2.5"
